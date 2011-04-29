@@ -1,0 +1,5 @@
+Statechart translator.
+
+This utility can translate a software model described using UML statechart, class diagramm and communication diagramm into Promela language. Than translated model could be used to verify it using Spin model checker.
+
+UML model must be presented in XML document, exported to XMI2 format.
